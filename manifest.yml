@@ -1,0 +1,7 @@
+---
+applications:
+- name: es5
+  command: npm run inspect
+  random-route: true
+  memory: 128M
+  disk_quota: 128M
