@@ -7,4 +7,4 @@ CF LOGIN -a <API END POINT> -o < ORGANISATION> -s <SPACE>
 .ENV file content will be as follows:
 NODE_ENV=development
 userid=<ES5 -- user id>
-password=<ES% -- password>
+password=<ES5 -- password>
